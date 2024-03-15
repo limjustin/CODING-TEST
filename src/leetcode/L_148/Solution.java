@@ -12,5 +12,7 @@ class Solution {
     public ListNode sortList(ListNode head) {
         ListNode listNode1 = new ListNode(3);
         ListNode listNode2 = new ListNode(1, listNode1);
+
+        return new ListNode();
     }
 }
