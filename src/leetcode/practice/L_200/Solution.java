@@ -1,4 +1,4 @@
-package leetcode.L_200;
+package leetcode.practice.L_200;
 
 public class Solution {
 

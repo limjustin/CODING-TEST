@@ -1,4 +1,4 @@
-package leetcode.L_746;
+package leetcode.practice.L_746;
 
 class Solution {
 

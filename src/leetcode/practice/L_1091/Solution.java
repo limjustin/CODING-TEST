@@ -1,4 +1,4 @@
-package leetcode.L_1091;
+package leetcode.practice.L_1091;
 
 import java.util.Arrays;
 import java.util.LinkedList;

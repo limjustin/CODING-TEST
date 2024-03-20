@@ -1,4 +1,4 @@
-package leetcode.L_148;
+package leetcode.practice.L_148;
 
 class Solution {
       public class ListNode {

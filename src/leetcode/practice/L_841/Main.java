@@ -1,7 +1,6 @@
-package leetcode.L_841;
+package leetcode.practice.L_841;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class Main {

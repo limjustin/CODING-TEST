@@ -1,4 +1,4 @@
-package leetcode.L_70;
+package leetcode.practice.L_70;
 
 class Solution {
 

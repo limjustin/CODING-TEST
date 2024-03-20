@@ -1,4 +1,4 @@
-package leetcode.L_1091;
+package leetcode.practice.L_1091;
 
 public class Main {
     public static void main(String[] args) {

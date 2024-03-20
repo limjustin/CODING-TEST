@@ -1,4 +1,4 @@
-package leetcode.L_17;
+package leetcode.practice.L_17;
 
 import java.util.*;
 

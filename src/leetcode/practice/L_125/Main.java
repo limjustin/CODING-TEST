@@ -1,4 +1,4 @@
-package leetcode.L_125;
+package leetcode.practice.L_125;
 
 public class Main {
     public static void main(String[] args) {
